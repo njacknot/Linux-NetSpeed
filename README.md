@@ -7,7 +7,7 @@ chmod +x tcp.sh
 如果在删除内核环节出现这样一张图
 注意选择NO
 
-BBRplus
+##BBRplus
 
 github项目地址：https://github.com/cx9208/bbrplus
 
